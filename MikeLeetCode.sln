@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikeLeetCode", "MikeLeetCode\MikeLeetCode.csproj", "{25B91955-EF89-4F29-8030-31DF5179EDD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{268C6287-B78B-46C9-BD28-C31BAF4AF240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{25B91955-EF89-4F29-8030-31DF5179EDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B91955-EF89-4F29-8030-31DF5179EDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B91955-EF89-4F29-8030-31DF5179EDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268C6287-B78B-46C9-BD28-C31BAF4AF240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268C6287-B78B-46C9-BD28-C31BAF4AF240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268C6287-B78B-46C9-BD28-C31BAF4AF240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268C6287-B78B-46C9-BD28-C31BAF4AF240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

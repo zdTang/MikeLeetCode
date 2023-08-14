@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("===The test result is as follow:=====");
+
+            // Data structure
+            DataStructure.ArrayQuestions.Test();
         }
     }
 }
